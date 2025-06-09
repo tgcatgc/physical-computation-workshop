@@ -1,0 +1,11 @@
+body{font-family:system-ui,sans-serif;margin:0;line-height:1.4;color:#222}
+.wrapper{max-width:960px;margin:0 auto;padding:0 1rem}
+header{background:#003366;color:#fff;padding:1.5rem 0}
+header h1{margin:0;font-size:1.7rem}
+nav ul{list-style:none;padding:0;margin:.5rem 0 0;display:flex;gap:1rem}
+nav a{color:#fff;text-decoration:none;font-weight:600}
+nav a:hover{text-decoration:underline}
+main{padding:2rem 0}
+table{width:100%;border-collapse:collapse}
+th,td{border:1px solid #ccc;padding:.4rem}
+footer{text-align:center;font-size:.85rem;background:#f7f7f7;padding:1rem;margin-top:2rem}
